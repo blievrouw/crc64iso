@@ -22,6 +22,7 @@ pip install crc64iso
 
 [PyPI](https://pypi.org/project/crc64iso/)
 
+
 ### Examples
 
 - Calculate 64-bit checksum from a string:
