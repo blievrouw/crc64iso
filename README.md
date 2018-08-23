@@ -20,6 +20,8 @@ Cambridge University Press. Pages 896ff._
 pip install crc64iso
 ```
 
+[PyPI](_https://pypi.org/project/crc64iso/_)
+
 ### Examples
 
 - Calculate 64-bit checksum from a string:

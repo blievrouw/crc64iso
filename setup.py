@@ -5,14 +5,14 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="crc64iso",
-    version="0.0.2",
+    version="0.0.3",
     author="Bert Lievrouw",
     author_email="bert.lievrouw@gmail.com",
     description="CRC-64 checksum generator",
     long_description=long_description,
     long_description_content_type="text/markdown",
     keywords='checksum digest crc crc-64 cyclic redundancy check data integrity',
-    url="",
+    url="https://pypi.org/project/crc64iso/",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
