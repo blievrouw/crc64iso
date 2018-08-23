@@ -14,6 +14,12 @@ Cambridge University Press. Pages 896ff._
 - python 3.x
 
 
+### Installation
+
+```
+pip install crc64iso
+```
+
 ### Examples
 
 - Calculate 64-bit checksum from a string:
